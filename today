@@ -1,0 +1,9 @@
+// The class name must exactly match the file name (HelloWorld.java)
+public class HelloWorld {
+    
+    // The main method is the entry point of any Java application
+    public static void main(String[] args) {
+        // Prints "Hello, World!" to the console
+        System.out.println("Hello, World!");
+    }
+}
